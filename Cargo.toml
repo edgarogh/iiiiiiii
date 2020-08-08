@@ -1,0 +1,14 @@
+[package]
+name = "iiiiiiii"
+version = "0.1.0"
+authors = ["Edgar Onghena <46636609+edgarogh@users.noreply.github.com>"]
+edition = "2018"
+
+[features]
+pack = []
+
+[dependencies]
+rodio = "0.11"
+rand = "0.7"
+sys-info = "0.7"
+zip = "0.5"
